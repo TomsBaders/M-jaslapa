@@ -1,1 +1,2 @@
-thread_local
+class main();
+
